@@ -2,32 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ff1da51-0f77-44bd-a58a-83006dea5834" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ImageTransformer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/const.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon001.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon002.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon003.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon004.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon005.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon006.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon007.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon008.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon009.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon010.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon011.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon012.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon013.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon014.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon015.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon016.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon017.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon018.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon019.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon020.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon021.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon022.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon023.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pokemon/pokemon024.jpeg" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework2/2D_convolution/.idea/2D_convolution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework2/2D_convolution/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework2/2D_convolution/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework2/2D_convolution/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework2/2D_convolution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework2/2D_convolution/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework2/2D_convolution/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ImageProcessing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="66" column="29" lean-forward="true" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+            <state relative-caret-position="28">
+              <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-end-line="15" selection-end-column="49" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -52,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ImageTransformer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
+            <state relative-caret-position="76">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="e#42#52#0" expanded="true" />
@@ -97,6 +78,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -104,21 +86,15 @@
               <item name="Answer2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Answer2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Answer2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Answer2" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="E:/Path/Programming Tools/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -176,9 +152,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -220,22 +197,22 @@
     <entry file="file://$PROJECT_DIR$/output/pokemon13_rotate.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ImageTransformer.py">
+    <entry file="file://$PROJECT_DIR$/ImageProcessing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="28">
+          <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-end-line="15" selection-end-column="49" />
           <folding>
-            <element signature="e#42#52#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ImageProcessing.py">
+    <entry file="file://$PROJECT_DIR$/ImageTransformer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="66" column="29" lean-forward="true" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+        <state relative-caret-position="76">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#42#52#0" expanded="true" />
           </folding>
         </state>
       </provider>
