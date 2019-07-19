@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e9b717f-c218-4602-9d10-b76d4151aa6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../2D_convolution/.idea/2D_convolution.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2D_convolution/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2D_convolution/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2D_convolution/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2D_convolution/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2D_convolution/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2D_convolution/noise.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2D_convolution/noise2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2D_convolution/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Image Stitching.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework3/Reorganize Linear Regression in Python mode/.idea/Reorganize Linear Regression in Python mode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework3/Reorganize Linear Regression in Python mode/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework3/Reorganize Linear Regression in Python mode/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework3/Reorganize Linear Regression in Python mode/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework3/Reorganize Linear Regression in Python mode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework1/Answer2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework1/Answer2/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9e9b717f-c218-4602-9d10-b76d4151aa6f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +56,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,12 +67,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Homework3/Reorganize Linear Regression in Python mode" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -196,6 +175,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15997024" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
