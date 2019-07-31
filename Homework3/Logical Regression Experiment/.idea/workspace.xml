@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d63774a8-909e-4dba-a2fe-b207cc61e269" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Logical Regression Experiment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reorganize Linear Regression in Python mode/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Reorganize Linear Regression in Python mode/main2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework1/Answer1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework1/Answer1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Homework2/Image Stitching/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Image Stitching/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reorganize Linear Regression in Python mode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Reorganize Linear Regression in Python mode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reorganize Linear Regression in Python mode/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Reorganize Linear Regression in Python mode/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Reorganize Linear Regression in Python mode/week3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Reorganize Linear Regression in Python mode/week3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/Untitled.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/image_stitching.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assignment_3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mathematical Problem about Swimming across Several Rivers.docx.baiduyun.uploading.cfg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+            <state relative-caret-position="2061">
+              <caret line="116" selection-start-line="116" selection-end-line="116" />
             </state>
           </provider>
         </entry>
@@ -88,7 +72,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Homework2/Image Stitching" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RecentsManager">
@@ -218,6 +202,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22470239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -239,23 +224,8 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="22" lean-forward="true" selection-end-line="71" />
-          <folding>
-            <element signature="e#53#71#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/week3.py" />
+    <entry file="file://$PROJECT_DIR$/main2.py" />
     <entry file="file://$PROJECT_DIR$/../../Homework1/code1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -269,8 +239,8 @@
     <entry file="file://$PROJECT_DIR$/../Reorganize Linear Regression in Python mode2/venv/pyvenv.cfg" />
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+        <state relative-caret-position="2061">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
         </state>
       </provider>
     </entry>
