@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76c9c52d-b2a8-4eaf-84fe-066b44cb7e6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CodeTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Homework2/Image Stitching/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Homework2/Image Stitching/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Homework3/Logical Regression Experiment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Homework3/Logical Regression Experiment/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Homework3/Mathematical Problem about Swimming across Several Rivers.docx.baiduyun.uploading.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework5/K-Means Experiment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Homework5/K-Means Experiment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework5/K-Means Experiment/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Homework5/K-Means Experiment/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework5/第五周作业.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Homework5/第五周作业.pdf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1225">
-              <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+            <state relative-caret-position="325">
+              <caret line="67" column="77" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="77" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -167,8 +162,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/week4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1225">
-          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        <state relative-caret-position="325">
+          <caret line="67" column="77" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="77" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>

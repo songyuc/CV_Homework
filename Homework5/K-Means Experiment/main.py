@@ -53,7 +53,7 @@ def initplusplus(df, k):
     for count in range(1, k):
         total = 0.0
         for i in range(num):
-            d[i] = get_closest_dist(df.loc[i, 'x'],df.loc[i, 'y'], centroids)  # 与最近一个聚类中心的距离
+            d[i] = get_closest_dist(df.loc[i, 'x'], df.loc[i, 'y'], centroids)  # 与最近一个聚类中心的距离
             total += d[i]
         total *= np.random.random()
         for i in range(num): # 轮盘法选出下一个聚类中心；
